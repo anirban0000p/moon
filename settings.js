@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "lucky~PMNj0Q5A#tmlmTYwwG_EQO9-gjU_CAEyhDPHri_qYiqI8MXdWd8Q",
+SESSION_ID: process.env.SESSION_ID || "lucky~TU0lUDob#PQM8rwmKz4GGMPfQx05FZYBceOCja5uPP0O7xXOOprA",
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -46,7 +46,7 @@ LINK_WHITELIST: "youtube.com,github.com",
       MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 
-     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/4itzeu.jpg",
+     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://drive.google.com/file/d/154oFR1bLsRx-DFvKgWPs8Lw6VPcG7zXY/view?usp=drivesdk",
 // add custom menu and mention reply image url
 
        ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/4itzeu.jpg",
@@ -68,7 +68,7 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "918777371471",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "917204539845",
 // add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "চন্দ্রবিন্দুর চাঁদ",
@@ -106,7 +106,7 @@ OWNER_NAME: process.env.OWNER_NAME || "চন্দ্রবিন্দুর �
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "918777371471",
+     DEV: process.env.DEV || "917204539845",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
