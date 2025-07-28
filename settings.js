@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "lucky~TU0lUDob#PQM8rwmKz4GGMPfQx05FZYBceO
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "MooN X",
+BOT_NAME: process.env.BOT_NAME || "MooN-X",
 // add bot name here for menu
 MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
